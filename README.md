@@ -1,6 +1,8 @@
 # MovieDetail_app
 
-A new Flutter project.
+This is movie listing app.TMDB api used and movies are listed according to different genre.
+![WhatsApp Image 2021-03-04 at 2 05 10 PM (1)](https://user-images.githubusercontent.com/62332164/109934930-0bb15400-7cf3-11eb-8f4b-2c3154ed2b1c.jpeg)
+
 
 ## Getting Started
 
